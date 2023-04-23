@@ -1,4 +1,4 @@
-import { Persona, objPersona } from "./mvc-modelo.js";
+import { Persona, objPersona } from "./modelo.js";
 
 const inputNombre = document.getElementById("inputNombre");
 const inputApellido = document.getElementById("inputApellido");
